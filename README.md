@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gilgildas
+- 👋 Hi, I’m @Gildas Habimana
 - 👀 I’m interested in data science  and software engineering
 - 🌱 I’m currently learning  data analytics with Udacity
 - 💞️ I’m looking to collaborate on data science projects
