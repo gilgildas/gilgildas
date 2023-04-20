@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gildas Habimana
 - 👀 I’m interested in data science  and software engineering
-- 🌱 I’m currently learning  data analytics with Udacity
+- 🌱I'm currently working as BI Developer at Bboxx Africa Management
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me "habigildas@gmail.com"
 
